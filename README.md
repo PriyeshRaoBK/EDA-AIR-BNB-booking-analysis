@@ -11,7 +11,14 @@ Airbnb, Inc., based in San Francisco, California, operates an online marketplace
 
 ## Approach Architecture
 ![image](https://user-images.githubusercontent.com/33152425/218307787-385dc242-f55f-4163-a3ff-a70d8a474790.png)
+## Summary
+The Airbnb booking analysis project is a comprehensive study aimed at understanding the various factors that influence the booking decisions of customers on the Airbnb platform. With the growing popularity of home-sharing and vacation rental services, it is crucial to understand what drives customer behavior and how to enhance the overall customer experience. This project aims to uncover the key drivers of customer behavior on Airbnb and provide insights into how the platform can be optimized to increase booking rates.
 
+The project will be conducted in several phases, starting with data collection. The data will be collected from the ALMABETTER. This data will then be cleaned to remove any missing, inconsistent, or irrelevant information. The next phase of the project will involve data analysis to uncover patterns and trends in customer behavior, such as the most popular listing types, the most sought-after amenities, and the factors that impact booking rates.
+
+Data visualization will be used to effectively communicate the insights and findings of the data analysis. A combination of graphs, charts, and maps will be used to showcase the trends and patterns in the data. This will help to identify areas of opportunity and highlight areas that require improvement.
+
+In conclusion, the Airbnb booking analysis project will provide valuable insights into customer behavior on the Airbnb platform. The insights will help to inform and optimize the platform to increase booking rates, enhance the customer experience, and drive growth and success for the platform. The project will also provide a framework for ongoing analysis and optimization, ensuring that the platform continues to evolve and adapt to changing customer needs and preferences.
 
 ## About the data
 - 48895 Row, 16 - Column
